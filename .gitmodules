@@ -1,0 +1,6 @@
+[submodule "ffxiv-datamining"]
+	path = ffxiv-datamining
+	url = https://github.com/xivapi/ffxiv-datamining.git
+[submodule "ffxiv-datamining-ko"]
+	path = ffxiv-datamining-ko
+	url = https://github.com/Ra-Workspace/ffxiv-datamining-ko.git
